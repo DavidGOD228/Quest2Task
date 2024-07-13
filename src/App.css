@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+  }
+  
+  .qr-code {
+    margin-bottom: 20px;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
