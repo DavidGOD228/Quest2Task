@@ -11,7 +11,7 @@ const App = () => {
       <h1>Welcome to Your Quest</h1>
       <p>Scan the QR code and decode the secret message.</p>
       <div className="qr-code">
-        <img src="https://api.qrserver.com/v1/create-qr-code/?data=YBnefwA80JWqZCYW=&size=200x200" alt="QR Code" />
+        <img src="https://api.qrserver.com/v1/create-qr-code/?data=Soxqu5Ixkgze4&size=200x200" alt="QR Code" />
       </div>
     </div>
   );
